@@ -13,7 +13,7 @@ include("header.php"); ?>
 <h2>E-Mail</h2>
 <p>You can contact us at <i class="icon-envelope"></i> <a href="mailto:info@researchdrones.com">info@researchdrones.com</a></p>
 <br/>
-				<h2>ResearchDrones Team</h2>
+			<h2>ResearchDrones Team</h2>
 
 			<div class="row">
 				<div class="span4">

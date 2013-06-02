@@ -15,7 +15,8 @@ include("header.php"); ?>
 					<a href="stream?f=<?echo urlencode($f);?>"
 						><img class="pull-left" src="assets/download.png" alt="" width="80" 
 						style="margin-right: 2em;" /></a>
-					<h4><?php echo preg_replace("/\.[A-Za-z0-9]+$/", "", basename($f)); ?></h4>
+					<!--h4><?php echo preg_replace("/\.[A-Za-z0-9]+$/", "", basename($f)); ?></h4-->
+					<h4><?php echo $f; ?></h4>
 					<div>Last modified: 
 					<?php echo date("Y-m-d", filemtime("files/$f")); ?></div>
 					<div>Type: <?php echo mime_content_type("files/$f"); ?></div>
