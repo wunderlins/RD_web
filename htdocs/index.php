@@ -111,8 +111,8 @@
       background-color: transparent;
       position: static;
       max-width: 700px;
-      padding: 0 20px;
-      margin-top: 380px;
+      padding: 0 40px;
+      margin-top: 390px;
     }
     .carousel-caption h1,
     .carousel-caption .lead {
