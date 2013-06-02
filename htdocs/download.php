@@ -1,5 +1,5 @@
 <?php
-$GLOBALS["g"]["hero"]["bg"] = "remo.png";
+$GLOBALS["g"]["hero"]["bg"] = "hero_1.png";
 $GLOBALS["g"]["hero"]["title"] = "Files";
 $GLOBALS["g"]["hero"]["slogan"] = "Files and documentations.<br/><br/>";
 
@@ -11,7 +11,7 @@ include("header.php"); ?>
 				<?php foreach($files as $f) { 
 					if($f == "." || $f == ".." ) continue;
 				?>
-				<div class="span4">
+				<div class="span6">
 					<a href="stream?f=<?echo urlencode($f);?>"
 						><img class="pull-left" src="assets/download.png" alt="" width="80" 
 						style="margin-right: 2em;" /></a>
