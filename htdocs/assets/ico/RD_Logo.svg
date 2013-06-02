@@ -14,10 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="RD_Logo.svg"
-   inkscape:export-filename="/home/wus/Repos/RD_web.git/assets/ico/apple-touch-icon-57-precomposed.png"
-   inkscape:export-xdpi="40.080002"
-   inkscape:export-ydpi="40.080002">
+   sodipodi:docname="RD_Logo.svg">
   <defs
      id="defs4">
     <clipPath
@@ -42,10 +39,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="g3301"
      showgrid="false"
-     inkscape:window-width="871"
+     inkscape:window-width="1250"
      inkscape:window-height="800"
-     inkscape:window-x="340"
-     inkscape:window-y="156"
+     inkscape:window-x="444"
+     inkscape:window-y="92"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
