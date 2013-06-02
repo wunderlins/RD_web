@@ -96,7 +96,7 @@
     }
 
     .carousel .item {
-      height: 500px;
+      height: 685px;
     }
     .carousel img {
 /*      position: absolute;
@@ -112,7 +112,7 @@
       position: static;
       max-width: 700px;
       padding: 0 20px;
-      margin-top: 200px;
+      margin-top: 380px;
     }
     .carousel-caption h1,
     .carousel-caption .lead {
@@ -308,14 +308,14 @@
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
-          <img src="assets/RD_Logo_blue_horizontal_1024.png" alt="ResearchDrones LLC Logo">
+          <img src="assets/carousel/rd_logo.png" alt="ResearchDrones LLC Logo">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="assets/carousel_uav.png" alt="ResearchDrones Maja UAV">
+          <img src="assets/carousel/uav.png" alt="ResearchDrones Maja UAV">
           <div class="container">
             <div class="carousel-caption">
               <h1>Maja UAV</h1>
@@ -325,7 +325,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="assets/carousel_training.jpg" alt="Training">
+          <img src="assets/carousel/training.png" alt="Training">
           <div class="container">
             <div class="carousel-caption">
               <h1>Training</h1>
@@ -334,6 +334,29 @@
             </div>
           </div>
         </div>
+
+        <div class="item">
+          <img src="assets/carousel/post.png" alt="Training">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Mapping</h1>
+              <p class="lead">Mapping landscapes at high resolution and low cost.</p>
+              <!--a class="btn btn-large btn-primary" href="training">Learn more »</a-->
+            </div>
+          </div>
+        </div>
+        
+        <div class="item">
+          <img src="assets/carousel/protect.png" alt="Training">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Protecting wildlife</h1>
+              <p class="lead">Spotting and counting rare animals.</p>
+              <!--a class="btn btn-large btn-primary" href="training">Learn more »</a-->
+            </div>
+          </div>
+        </div>
+        
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
