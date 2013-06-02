@@ -19,7 +19,6 @@ include("header.php"); ?>
 					<h4><?php echo $f; ?></h4>
 					<div>Last modified: 
 					<?php echo date("Y-m-d", filemtime("files/$f")); ?></div>
-					<div>Type: <?php echo mime_content_type("files/$f"); ?></div>
 				</div>
 				<?php } ?>
 			</div>
