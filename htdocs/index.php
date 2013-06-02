@@ -362,10 +362,10 @@
 			<div class="row">
 				<br /><br />
 				<div class="span4">
-					<p><a class="btn" href="uav.php">View details &raquo;</a></p>
+					<p><a class="btn" href="uav">View details &raquo;</a></p>
 				</div>
 				<div class="span4">
-					<p><a class="btn" href="training.php">View details &raquo;</a></p>
+					<p><a class="btn" href="training">View details &raquo;</a></p>
 				</div>
 				<div class="span4">
 					<p><a class="btn" href="/shop/">View details &raquo;</a></p>

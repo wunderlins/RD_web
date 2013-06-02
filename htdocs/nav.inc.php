@@ -2,19 +2,19 @@
 							<!--li><a href="index.php"><i class="icon-home icon-white"></i> Home</a></li-->
 							<li
 							<?php if ($page == "uav") echo 'class="active" '; ?>
-							><a href="uav.php"><i class="icon-plane icon-white"></i> Maja UAV</a></li>
+							><a href="uav"><i class="icon-plane icon-white"></i> Maja UAV</a></li>
 							<li
 							<?php if ($page == "training") echo 'class="active" '; ?>
-							><a href="training.php"><i class="icon-book icon-white"></i> Training</a></li>
+							><a href="training"><i class="icon-book icon-white"></i> Training</a></li>
 							<li
 							<?php if ($page == "field") echo 'class="active" '; ?>
-							><a href="field.php"><i class="icon-film icon-white"></i> Experience</a></li>
+							><a href="field"><i class="icon-film icon-white"></i> Experience</a></li>
 							<li
 							<?php if ($page == "media") echo 'class="active" '; ?>
-							><a href="media.php"><i class="icon-facetime-video icon-white"></i> Media</a></li>
+							><a href="media"><i class="icon-facetime-video icon-white"></i> Media</a></li>
 							<li
 							<?php if ($page == "team") echo 'class="active" '; ?>
-							><a href="team.php"><i class="icon-user icon-white"></i> Team</a></li>
+							><a href="team"><i class="icon-user icon-white"></i> Team</a></li>
 							<li
 							><a href="/shop"><i class="icon-shopping-cart icon-white"></i> Shop</a></li>
 							<!--li><a href="team.php">About</a></li-->
@@ -32,6 +32,6 @@
 							</li-->
 						</ul>
 						<ul class="nav pull-right">
-							<li><a href="team.php"><i class="icon-envelope icon-white"></i> Contact</a></li>
+							<li><a href="team"><i class="icon-envelope icon-white"></i> Contact</a></li>
 						</ul>
 
