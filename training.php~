@@ -1,0 +1,37 @@
+<?php
+$GLOBALS["g"]["hero"]["bg"] = "training.png";
+$GLOBALS["g"]["hero"]["title"] = "Training";
+$GLOBALS["g"]["hero"]["slogan"] = "Boosting efficiency and effectiveness.<br/><br/>";
+
+$GLOBALS["g"]["hero"]["text_bg"] = "#222";
+$GLOBALS["g"]["hero"]["text_fg"] = "#EEE";
+
+include("header.php"); ?>
+			<!-- Example row of columns -->
+			<div class="row">
+				<div class="span12">
+					<h2>Training</h2>
+					<p>Operating a UAV in a secure, efficient way and according to local regulations needs some considerations and training.</p>
+					<p>The ResearchDrones and ConservationDrones team can provide you a basic trainign for operating the UAV. We can also help you learn optimal ways to operate a UAV in your special environment or for your research applications.</p>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="span6">
+					<img src="assets/training/train_1.jpg" width="550" alt="" />
+				</div>
+				<div class="span6">
+					<img src="assets/training/train_2.jpg" width="550" alt="" />
+				</div>
+			</div>
+			<br /> <br/>
+			<div class="row">
+				<div class="span6">
+					<img src="assets/training/train_3.jpg" width="550" alt="" />
+				</div>
+				<div class="span6">
+					<img src="assets/training/train_4.jpg" width="550" alt="" />
+				</div>
+			</div>
+<?php include("footer.php"); ?>
+
