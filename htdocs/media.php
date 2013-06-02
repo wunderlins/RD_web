@@ -1,6 +1,6 @@
 <?php
 $GLOBALS["g"]["hero"]["bg"] = "remo.png";
-$GLOBALS["g"]["hero"]["title"] = "Media Coverage";
+$GLOBALS["g"]["hero"]["title"] = "Media Features";
 $GLOBALS["g"]["hero"]["slogan"] = "The ResearchDrones Maja has been reported in the media worldwide.<br/><br/>";
 
 //$GLOBALS["g"]["hero"]["text_bg"] = "#333";
