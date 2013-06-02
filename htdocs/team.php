@@ -49,11 +49,11 @@ include("header.php"); ?>
 
 			<div class="row">
 				<div class="span6">
-					<h3>Lian Pin Koh</h3>
+					<h3>Prof Lian Pin Koh</h3>
 					Lian Pin is a conservation biologist who has worked on various conservation issues in SE Asia for the past 10 years. He is based in Switzerland.<br/><br/>
 				</div>
 				<div class="span6">
-					<h3>Serge Wich</h3>
+					<h3>Prof Serge Wich</h3>
 					Serge is a primate biologist who has spent the last 20 years studying orangutan ecology and conservation in Indonesia. He is based in the United Kingdom.
 				</div>
 			</div>

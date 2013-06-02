@@ -17,7 +17,7 @@ The ResearchDrones team provides worldwide basic training program for operating 
 </p><p>
 Don't hesitate to contact us for a training program at your field site.
 </p>
-<a href="team.php">Contact »</a>
+<a href="team">Contact »</a>
 					<br/><br/>
 				</div>
 			</div>

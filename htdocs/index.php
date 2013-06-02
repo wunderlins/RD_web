@@ -320,7 +320,7 @@
             <div class="carousel-caption">
               <h1>Maja UAV</h1>
               <p class="lead">Your eye in the sky.</p>
-              <a class="btn btn-large btn-primary" href="uav.php">Learn more »</a>
+              <a class="btn btn-large btn-primary" href="uav">Learn more »</a>
             </div>
           </div>
         </div>
@@ -330,7 +330,7 @@
             <div class="carousel-caption">
               <h1>Training</h1>
               <p class="lead">Boosting efficiency and effectiveness.</p>
-              <a class="btn btn-large btn-primary" href="training.php">Learn more »</a>
+              <a class="btn btn-large btn-primary" href="training">Learn more »</a>
             </div>
           </div>
         </div>
@@ -362,10 +362,10 @@
 			<div class="row">
 				<br /><br />
 				<div class="span4">
-					<p><a class="btn" href="uav.php">View details &raquo;</a></p>
+					<p><a class="btn" href="uav">View details &raquo;</a></p>
 				</div>
 				<div class="span4">
-					<p><a class="btn" href="training.php">View details &raquo;</a></p>
+					<p><a class="btn" href="training">View details &raquo;</a></p>
 				</div>
 				<div class="span4">
 					<p><a class="btn" href="/shop/">View details &raquo;</a></p>
