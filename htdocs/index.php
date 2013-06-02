@@ -351,7 +351,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Protecting wildlife</h1>
-              <p class="lead">Spotting and counting rare animals.</p>
+              <p class="lead">Spotting and counting endangered animals.</p>
               <!--a class="btn btn-large btn-primary" href="training">Learn more »</a-->
             </div>
           </div>

@@ -24,19 +24,19 @@ Don't hesitate to contact us for a training program at your field site.
 			
 			<div class="row">
 				<div class="span6">
-					<img src="assets/training/train_1.jpg" width="550" alt="" class="img-polaroid img-rounded" />
+					<img src="assets/training/train_1_small.jpg" width="550" alt="" class="img-polaroid img-rounded" />
 				</div>
 				<div class="span6">
-					<img src="assets/training/train_2.jpg" width="550" alt="" class="img-polaroid img-rounded" />
+					<img src="assets/training/train_2_small.jpg" width="550" alt="" class="img-polaroid img-rounded" />
 				</div>
 			</div>
 			<br /> <br/>
 			<div class="row">
 				<div class="span6">
-					<img src="assets/training/train_3.jpg" width="550" alt="" class="img-polaroid img-rounded" />
+					<img src="assets/training/train_3_small.jpg" width="550" alt="" class="img-polaroid img-rounded" />
 				</div>
 				<div class="span6">
-					<img src="assets/training/train_4.jpg" width="550" alt="" class="img-polaroid img-rounded" />
+					<img src="assets/training/train_4_small.jpg" width="550" alt="" class="img-polaroid img-rounded" />
 				</div>
 			</div>
 <?php include("footer.php"); ?>
