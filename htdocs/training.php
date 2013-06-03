@@ -15,6 +15,8 @@ include("header.php"); ?>
 </p><p>
 The ResearchDrones team provides worldwide basic training program for operating a UAV. Training can be customized to suit your specific application and environment. Our intensive 3 to 5-day training program will provide you with enough knowledge, confidence and proficiency to begin using your UAV in the field.
 </p><p>
+You might want to <a href="field">watch some videos</a> from the trainings, field trips and research projects we have done in the past.
+</p><p>
 Don't hesitate to contact us for a training program at your field site.
 </p>
 <a href="team">Contact »</a>
