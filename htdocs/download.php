@@ -1,7 +1,7 @@
 <?php
 $GLOBALS["g"]["hero"]["bg"] = "hero_1.png";
 $GLOBALS["g"]["hero"]["title"] = "Files";
-$GLOBALS["g"]["hero"]["slogan"] = "Files and documentations.<br/><br/>";
+$GLOBALS["g"]["hero"]["slogan"] = "Files and documentation.<br/><br/>";
 
 // get a listing of all files in files/ ordered by date
 $files = scandir("files/");
