@@ -40,7 +40,24 @@ include("header.php"); ?>
 
 			<div class="row">
 				<div class="span12">
+				<h2>Pictures taken from the drone.</h2>
+				</div>
+				<div class="span4">
+					<img src="assets/drone_images/1_IMG_0838_small.JPG" alt="" />
+				</div>
+				<div class="span4">
+					<img src="assets/drone_images/2_IMG_0183_small.JPG" alt="" />
+				</div>
+				<div class="span4">
+					<img src="assets/drone_images/3_IMG_0120_small.JPG" alt="" />
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="span12">
 					<h2>Deployement locations</h2>
+				</div>
+				<div class="span12">
 					<iframe width="1170" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=214137591862328020193.0004d2df6cce0ddcf79f3&amp;ie=UTF8&amp;t=m&amp;ll=26.588527,56.601563&amp;spn=86.716723,205.664063&amp;z=3&amp;output=embed"></iframe><br/><br/>
 				</div>
 			</div>
