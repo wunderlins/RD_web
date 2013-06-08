@@ -8,6 +8,8 @@
 @param z Start delay (s)
 @default z 5
 
+REM (c) 2013, Simon Wunderlin, ResearchDrones LLC
+
 rem Starts indicator sound
 playsound 4
 
