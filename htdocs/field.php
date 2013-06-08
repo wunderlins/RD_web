@@ -58,7 +58,7 @@ include("header.php"); ?>
 					<h2>Deployement locations</h2>
 				</div>
 				<div class="span12">
-					<iframe width="1170" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=214137591862328020193.0004d2df6cce0ddcf79f3&amp;ie=UTF8&amp;t=m&amp;ll=26.588527,56.601563&amp;spn=86.716723,205.664063&amp;z=3&amp;output=embed"></iframe><br/><br/>
+<iframe width="1170" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=214137591862328020193.0004d2df6cce0ddcf79f3&amp;ie=UTF8&amp;t=m&amp;ll=23.885838,10.546875&amp;spn=109.907757,50.976562&amp;z=2&amp;output=embed"></iframe><br/><br/>
 				</div>
 			</div>
 
