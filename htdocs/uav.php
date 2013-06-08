@@ -21,6 +21,7 @@ include("header.php"); ?>
 					</p><p>
 					The ResearchDrones MAJA UAV includes the airframe, a still camera, a video camera, Mission Planner software for Windows or Android laptop, real-time telemetry link and a radio transmitter for manual control.
 					</p>
+					<p>The ResearchDrones team together with <a href="http://ConservationDrones.org">ConservationDrones.org</a> is providing <a href="training">trainings</a> at your location.
 					
 					<h3>Technical Specifications</h3>
 					<table class="table" style="width: 50%;">
@@ -51,6 +52,9 @@ include("header.php"); ?>
 							</tr>
 						</tbody>
 					</table>
+					<br/>
+					<a class="btn" href="training">Trainings »</a>
+					<a class="btn" href="shop" target="_blank">Buy »</a>
 					<br/><br/>
 					<h3>Images</h3>
 					<p style="float: left; padding-right:3em;">

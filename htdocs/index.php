@@ -336,7 +336,7 @@
         </div>
 
         <div class="item">
-          <img src="assets/carousel/post.png" alt="Training">
+          <img src="assets/carousel/post.png" alt="Mapping">
           <div class="container">
             <div class="carousel-caption">
               <h1>Mapping</h1>
@@ -347,7 +347,7 @@
         </div>
         
         <div class="item">
-          <img src="assets/carousel/protect.png" alt="Training">
+          <img src="assets/carousel/protect.png" alt="">
           <div class="container">
             <div class="carousel-caption">
               <h1>Protecting wildlife</h1>
@@ -391,7 +391,7 @@
 					<p><a class="btn" href="training">View details &raquo;</a></p>
 				</div>
 				<div class="span4">
-					<p><a class="btn" href="/shop/">View details &raquo;</a></p>
+					<p><a class="btn" href="/shop/" target="_blank">View details &raquo;</a></p>
 				</div>
 			</div>
 
