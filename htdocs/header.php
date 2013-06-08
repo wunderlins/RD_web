@@ -80,4 +80,3 @@ if (!isset($GLOBALS["g"]["hero"]["text_bg"])) {
 				<p><a href="<?php echo $GLOBALS["g"]["hero"]["link"]; ?>" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
 				<?php } ?>
 			</div>
-
