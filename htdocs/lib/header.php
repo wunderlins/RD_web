@@ -58,7 +58,7 @@ if (!isset($GLOBALS["g"]["hero"]["text_bg"])) {
 					<a href="./" class="brand" style="padding: 7px 5px 5px 25px; color:white;"
 					><img style="vertical-align: middle !important; margin-top: 0px; border: 0; padding-top: 0px;" src="assets/logo_small.png" alt="" /> <span style="font-size: 14px; font-weight: bold;">ResearchDrones<span></a>
 					<div class="nav-collapse collapse">
-					<?php include("nav.inc.php"); ?>
+					<?php include("lib/nav.inc.php"); ?>
 						<!--form class="navbar-form pull-right">
 							<input class="span2" type="text" placeholder="Email">
 							<input class="span2" type="password" placeholder="Password">

@@ -6,7 +6,7 @@ $GLOBALS["g"]["hero"]["slogan"] = "Boosting efficiency and effectiveness.<br/><b
 $GLOBALS["g"]["hero"]["text_bg"] = "#222";
 $GLOBALS["g"]["hero"]["text_fg"] = "#EEE";
 
-include("header.php"); ?>
+include("lib/header.php"); ?>
 			<!-- Example row of columns -->
 			<div class="row">
 				<div class="span12">
@@ -41,5 +41,5 @@ Don't hesitate to <a href="team">contact</a> us for a training program at your s
 					<img src="assets/training/train_4_small.jpg" width="550" alt="" class="img-polaroid img-rounded" />
 				</div>
 			</div>
-<?php include("footer.php"); ?>
+<?php include("lib/footer.php"); ?>
 

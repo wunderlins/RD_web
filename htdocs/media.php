@@ -6,7 +6,7 @@ $GLOBALS["g"]["hero"]["slogan"] = "The ResearchDrones Maja has been reported in 
 //$GLOBALS["g"]["hero"]["text_bg"] = "#333";
 //$GLOBALS["g"]["hero"]["text_fg"] = "#CCC";
 
-include("header.php"); ?>
+include("lib/header.php"); ?>
 			<!-- Example row of columns -->
 			<div class="row">
 				<div class="span12">
@@ -105,5 +105,5 @@ Günstige Drohne gegen Brandrodung und Wilderei</td>
 
 				</div>
 			</div>
-<?php include("footer.php"); ?>
+<?php include("lib/footer.php"); ?>
 

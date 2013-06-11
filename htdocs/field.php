@@ -6,7 +6,7 @@ $GLOBALS["g"]["hero"]["slogan"] = "The ResearchDrones Maja is being used around 
 $GLOBALS["g"]["hero"]["text_bg"] = "#222";
 $GLOBALS["g"]["hero"]["text_fg"] = "#EEE";
 
-include("header.php"); ?>
+include("lib/header.php"); ?>
 
 			<div class="row">
 				<div class="span12">
@@ -65,5 +65,5 @@ include("header.php"); ?>
 			</div>
 
 
-<?php include("footer.php"); ?>
+<?php include("lib/footer.php"); ?>
 

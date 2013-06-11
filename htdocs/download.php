@@ -25,7 +25,7 @@ function list_by_type($file_exts, $files, $exclude=false) { ?>
 					if (!$ext_match) continue;
 				?>
 				<div class="span6">
-					<a href="stream?f=<?echo urlencode($f);?>"
+					<a href="lib/stream?f=<?echo urlencode($f);?>"
 						><img class="pull-left file-ico" src="assets/download.png" alt="" width="48" 
 						style="margin-right: 2em;" /></a>
 					<!--h4><?php echo preg_replace("/\.[A-Za-z0-9]+$/", "", basename($f)); ?></h4-->
@@ -68,7 +68,7 @@ function display_current($display, $download, $description=NULL) { ?>
 <?php
 }
 
-include("header.php"); 
+include("lib/header.php"); 
 
 ?><style type="text/css">
 .section-end {
@@ -125,5 +125,5 @@ list_by_type(array(".bas", ".lua"), $files);
 list_by_type(array(".hex"), $files);
 ?><?php
 
-include("footer.php"); ?>
+include("lib/footer.php"); ?>
 

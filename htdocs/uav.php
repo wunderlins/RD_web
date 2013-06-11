@@ -6,7 +6,7 @@ $GLOBALS["g"]["hero"]["slogan"] = "Ready-to-fly UAV system for environmental and
 $GLOBALS["g"]["hero"]["text_bg"] = "#222";
 $GLOBALS["g"]["hero"]["text_fg"] = "#EEE"; 
 
-include("header.php"); ?>
+include("lib/header.php"); ?>
 			<!-- Example row of columns -->
 			<div class="row">
 				<div class="span12">
@@ -70,5 +70,5 @@ include("header.php"); ?>
 					</p>
 				</div>
 			</div>
-<?php include("footer.php"); ?>
+<?php include("lib/footer.php"); ?>
 

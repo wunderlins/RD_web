@@ -293,7 +293,7 @@
             <!--a class="brand" href="./home_files/home.html">Project name</a-->
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
-              <?php include("nav.inc.php"); ?>
+              <?php include("lib/nav.inc.php"); ?>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->
         </div><!-- /.navbar -->
@@ -401,7 +401,7 @@
 			</footer>
 		</div>
 
-		<?php include("footer.inc.php"); ?>
+		<?php include("lib/footer.inc.php"); ?>
 		    
     <script>
       !function ($) {

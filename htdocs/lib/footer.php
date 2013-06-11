@@ -3,7 +3,7 @@
 				<p>&copy; ResearchDrones LLC, 2013</p>
 			</footer>
 		</div>
-		<?php include("footer.inc.php"); ?>
+		<?php include("lib/footer.inc.php"); ?>
 	</body>
 </html>
 
