@@ -24,6 +24,13 @@ include("header.php"); ?>
 						
 						<tbody>
 							<tr>
+								<td>Das Auge am Himmel</td>
+								<td>2013-06-09</td>
+								<td>Der Bund</td>
+								<td><a class="btn" target="_blank" href="http://www.derbund.ch/wissen/natur/Das-Auge-am-Himmel/story/22396759"><img src="assets/external.png" alt="External link"/> View details &raquo;</a></td>
+							</tr>
+
+							<tr>
 								<td>Umweltsünder ertappen,
 Günstige Drohne gegen Brandrodung und Wilderei</td>
 								<td>2013-05-24</td>
