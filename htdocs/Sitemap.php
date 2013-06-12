@@ -51,7 +51,7 @@ foreach (glob("*.php") as $f) {
 	echo " 
 	<url>
 		<loc>http://researchdrones.com$uri</loc>
-		<lastmod>2005-01-01</lastmod>
+		<lastmod>".date(/*"Y-m-d"*/ "c", filemtime($f))."</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>$ranking</priority>
 	</url>\r\n";
