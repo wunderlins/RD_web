@@ -241,6 +241,8 @@ class MIME_Type_Extension
         'movie'     => 'video/x-sgi-movie',
         'ice'       => 'x-conference/x-cooltalk',
         'hex'       => 'application/intel-hex',
+        'bas'       => 'application/x-basic',
+        'lua'       => 'application/x-lua'
     );
 
 
