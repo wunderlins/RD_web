@@ -47,7 +47,7 @@ function display_current($display, $download, $description=NULL) { ?>
 				}
 				?>
 				<div class="span6">
-					<a href="<?echo $download;?>"
+					<a href="<?echo $download;?>" target="_blank"
 						><img class="pull-left file-ico" src="assets/download.png" alt="" width="48" 
 						style="margin-right: 2em;" /></a>
 					<h4><?php 
@@ -123,7 +123,34 @@ list_by_type(array(".bas", ".lua"), $files);
 ?>
 <div class="row"><div class="span12"><h3>Supported Firmware</h3></div><div class="span12">Note: ArduPlane 2.73 in testing. Featured new L1 navigation controler, unfinished.</div></div><?php
 list_by_type(array(".hex"), $files);
-?><?php
+?>
 
+			<div class="row">
+				<div class="span12"><h3>Development Tools</h3></div>
+				<?php 
+					display_current(
+						"Arduino IDE 1.0.3 (Win)", 
+						"http://ardupilot.com/downloads/?did=45", 
+						"This is a modified version of the arduino IDE for building the ArduPlane firmware. "
+					);
+					display_current(
+						"Arduino IDE 1.0.3 (Mac)", 
+						"http://ardupilot.com/downloads/?did=44", 
+						"This is a modified version of the arduino IDE for building the ArduPlane firmware. "
+					);
+					display_current(
+						"ArduPilot Source", 
+						"https://github.com/diydrones/ardupilot/archive/master.zip", 
+						"C/C++ source code to be compiled with Arduino IDE or cmake/avr-gcc."
+					);
+					
+					
+				?>
+
+			</div>
+			<div class="section-end">
+
+
+<?php
 include("lib/footer.php"); ?>
 
