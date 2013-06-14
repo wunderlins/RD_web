@@ -242,7 +242,8 @@ class MIME_Type_Extension
         'ice'       => 'x-conference/x-cooltalk',
         'hex'       => 'application/intel-hex',
         'bas'       => 'application/x-basic',
-        'lua'       => 'application/x-lua'
+        'lua'       => 'application/x-lua',
+        'param'     => 'application/x-ardupilot-parameters'
     );
 
 
